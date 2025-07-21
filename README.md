@@ -1,7 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on React <br>👯 I’m looking to collaborate on MERN <br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning React <br>💬 Ask me about Full Stack Development<br>⚡ Fun fact Nothing . Just Creepy 💀
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div>
+    <h2>👋 About Me:</h2>
+    <ul>
+      <li>🛠️ I’m currently working on React</li>
+      <li>🤝 I’m looking to collaborate on MERN</li>
+      <li>🤖 I’m looking for help with AI/ML</li>
+      <li>🌱 I’m currently learning React</li>
+      <li>💬 Ask me about Full Stack Development</li>
+      <li>⚡ Fun fact: Nothing. Just Creepy 💀</li>
+    </ul>
+  </div>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM1b3ZwZmR1cjF2YXBsZzlvb3JrMXV5OWc1dXZuYTM2ZzhqZncwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="200" style="margin-left: 20px;" />
+</div>
 
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM1b3ZwZmR1cjF2YXBsZzlvb3JrMXV5OWc1dXZuYTM2ZzhqZncwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="300" />
+ 
 
 
 ## 🌐 Socials:
