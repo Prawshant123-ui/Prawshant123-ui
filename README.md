@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on React <br>👯 I’m looking to collaborate on MERN <br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning React <br>💬 Ask me about Full Stack Development<br>⚡ Fun fact Nothing . Just Creepy 💀
 
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM1b3ZwZmR1cjF2YXBsZzlvb3JrMXV5OWc1dXZuYTM2ZzhqZncwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="300" />
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089948352363 ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Praw_shantt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-sharma-bab7aa373/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Praw_Shantt909) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daridon100@gmail.com) 
