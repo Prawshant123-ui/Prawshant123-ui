@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Code+Enthusiast+💻;Full+Stack+Developer+🚀;AI%2FML+Explorer+🤖;Problem+Solver+🧠;MERN+Stack+Fan+🔥" alt="Typing SVG" />
+</p>
+
 <h3 align="center">👨‍💻 Code Enthusiast | 💡 Problem Solver</h3>
+
+---
 
 <table>
   <tr>
@@ -32,7 +39,7 @@
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
@@ -51,7 +58,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Prawshant123-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Prawshant123-ui&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prawshant123-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
