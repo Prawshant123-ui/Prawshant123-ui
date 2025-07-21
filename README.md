@@ -1,9 +1,10 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hhNXBwYjRxY25qYnh2NmU3bmlkdDVxYmc4ZDN2YXZxdWR1dmR4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KDyxouSEfhOs9i4oru/giphy.gif" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
 
-
-
 <h3 align="center">👨‍💻 Code Enthusiast | 💡 Problem Solver</h3>
-
 
 ---
 
@@ -22,7 +23,7 @@
 
 </td>
     <td>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczEyMzdoa3Y4cnl3aGd5NmFmeHJ6cnF3bjN6a3J6eDlrem9kamU5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="200" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczEyMzdoa3Y4cnl3aGd5NmFmeHJ6cnF3bjN6a3J6eDlrem9kamU5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="350" height="350" />
     </td>
   </tr>
 </table>
