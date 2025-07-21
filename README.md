@@ -13,10 +13,10 @@
 
 <h2>👋 About Me:</h2>
 
-- 🛠️ I’m currently working on React  
-- 🤝 I’m looking to collaborate on MERN  
-- 🤖 I’m looking for help with AI/ML  
-- 🌱 I’m currently learning React  
+- 🛠️ I’m currently working on 100 Days of React 
+- 🤝 I’m looking to collaborate on Development 
+- 🤖 I’m looking for help with Team for Hackathons  
+- 🌱 I’m currently learning React in MERN
 - 💬 Ask me about Full Stack Development  
 - ⚡ Fun fact: Nothing. Just Creepy 💀  
 
