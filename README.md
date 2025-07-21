@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
 
-<!-- Hero Typing Animation -->
-<div align="center">
+<p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Code+Enthusiast+💻;Full+Stack+Developer+🚀;AI%2FML+Explorer+🤖;Problem+Solver+🧠;MERN+Stack+Fan+🔥" 
-    alt="Typing animation with tech roles and interests"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&width=600&lines=Code+Enthusiast+💻;Full+Stack+Developer+🚀;AI%2FML+Explorer+🤖;Problem+Solver+🧠;MERN+Stack+Fan+🔥" 
+    alt="Typing animation"
   />
-</div>
+</p>
 
 <h3 align="center">👨‍💻 Code Enthusiast | 💡 Problem Solver</h3>
+
 
 ---
 
