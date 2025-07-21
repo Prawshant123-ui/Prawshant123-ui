@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Code+Enthusiast+💻;Full+Stack+Developer+🚀;AI%2FML+Explorer+🤖;Problem+Solver+🧠;MERN+Stack+Fan+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Code+Enthusiast+💻;Full+Stack+Developer+🚀;AI%2FML+Explorer+🤖;Problem+Solver+🧠;MERN+Stack+Fan+🔥&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <h3 align="center">👨‍💻 Code Enthusiast | 💡 Problem Solver</h3>
