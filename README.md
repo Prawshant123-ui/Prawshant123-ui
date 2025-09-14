@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Prashant;Sharma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+I'm+Prashant+Sharma;I'm+studying+FullStack+Development)](https://git.io/typing-svg)
 
 <h3 align="center">👨‍💻 Code Enthusiast | 💡 Problem Solver</h3>
 
