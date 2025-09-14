@@ -38,9 +38,7 @@
 ---
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,js,react,redux,vite,vscode,nextjs,npm,nodejs,express,mongodb,git,github,java,php)](https://skillicons.dev)
  
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
