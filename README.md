@@ -51,6 +51,10 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
+---
+
+[![Prashant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prawshant123-ui&theme=dracula)](https://github.com/Prawshant/github-readme-activity-graph)
+
 
 ---
 
