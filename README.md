@@ -53,7 +53,7 @@
 
 ---
 
-[![Prashant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prawshant123-ui&theme=dracula)](https://github.com/Prawshant/github-readme-activity-graph)
+[![Prashant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prawshant123-ui&theme=merko)](https://github.com/Prawshant/github-readme-activity-graph)
 
 
 ---
