@@ -1,4 +1,4 @@
-
+<h1 align="center">Prashant Sharma </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+I'm+Prashant+Sharma;I'm+studying+FullStack+Development)](https://git.io/typing-svg)
 
