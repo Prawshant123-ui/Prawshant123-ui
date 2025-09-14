@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Prashant;Sharma)](https://git.io/typing-svg)
 
 <h3 align="center">👨‍💻 Code Enthusiast | 💡 Problem Solver</h3>
 
