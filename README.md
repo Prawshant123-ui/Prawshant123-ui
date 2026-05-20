@@ -12,12 +12,9 @@
 
 <h2>👋 About Me:</h2>
 
-- 🛠️ I’m currently working on 100 Days of React 
-- 🤝 I’m looking to collaborate on Development 
-- 🤖 I’m looking for help with Team for Hackathons  
-- 🌱 I’m currently learning React 
-- 💬 Ask me about Full Stack Development  
-- ⚡ Fun fact: Nothing. Just Creepy 💀  
+
+I'm currently working on Project Based Learning on FullStack Development using MERN 🚀<br>I'm looking to collaborate on Projects 🤝<br>I'm looking for help with launching Startups and Businesses 💼📈<br>I'm currently learning Backend Development using Node/Express JS ⚙️🖥️<br>Ask me about learning new things 📚<br>Fun fact: Nothing, just creepy 💀<br>
+ 
 
 
 
@@ -30,7 +27,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Praw_shantt) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-sharma-bab7aa373/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Praw_Shantt909) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daridon100@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:coddieprawshantt909@gmail.com) 
 
 ---
 
@@ -48,9 +45,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prawshant123-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Prawshant123-ui&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prawshant123-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Prawshant123-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Prawshant123-ui&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prawshant123-ui&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
