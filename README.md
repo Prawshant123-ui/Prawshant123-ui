@@ -54,10 +54,6 @@ I'm currently working on Project Based Learning on FullStack Development using M
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prawshant123-ui&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
