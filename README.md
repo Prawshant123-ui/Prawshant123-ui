@@ -32,7 +32,7 @@ I'm currently working on Project Based Learning on FullStack Development using M
 ---
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,js,react,redux,vite,vscode,nextjs,npm,nodejs,express,mongodb,git,github,java,php,python,netlify,mysql,photoshop,figma,arduino,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,js,react,redux,vite,vscode,nextjs,npm,nodejs,express,mongodb,git,github,java,php,python,netlify,mysql,photoshop,figma,arduino,postman,postgres,redis,websockets,)](https://skillicons.dev)
  
 
 
