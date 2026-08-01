@@ -21,15 +21,16 @@ I'm currently working on Project Based Learning on FullStack Development using M
   
 
 ---
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089948352363) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Praw_shantt) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-sharma-bab7aa373/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Praw_Shantt909) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:coddieprawshantt909@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](...)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](...)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](...)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](...)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](...)
+[![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-22c55e?style=flat-square)](https://prashantsharma2006.com.np)
 
 ---
+## 🌐 Socials
+
 
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,js,react,redux,vite,vscode,nextjs,npm,nodejs,express,mongodb,git,github,java,php,python,netlify,render,vercel,mysql,photoshop,figma,arduino,postman,postgres,redis,websockets,)](https://skillicons.dev)
