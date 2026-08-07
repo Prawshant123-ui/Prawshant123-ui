@@ -13,7 +13,7 @@
 <h2>👋 About Me:</h2>
 
 
-I'm currently working on Project Based Learning on FullStack Development using MERN 🚀<br>I'm looking to collaborate on Projects 🤝<br>I'm looking for help with launching Startups and Businesses 💼📈<br>I'm currently learning Backend Development using Node/Express JS ⚙️🖥️<br>Ask me about learning new things 📚<br>Fun fact: Nothing, just creepy 💀<br>
+I'm currently working on Project Based Learning on Backend development using Node/Express JS and Prisma ORM 🚀<br>I'm looking to collaborate on Projects 🤝<br>I'm looking for help with launching Startups and Businesses 💼📈<br>I'm currently learning System design ⚙️🖥️<br>Ask me about learning new things 📚<br>Fun fact: Nothing, just creepy 💀<br>
  
 
 
@@ -22,10 +22,10 @@ I'm currently working on Project Based Learning on FullStack Development using M
 
 ---
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](...)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](...)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](...)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](...)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](...)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prawshantt.js/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]()
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Prawshantt2006)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](coddieprawshant909@gmail.com)
 [![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-22c55e?style=flat-square)](https://prashantsharma2006.com.np)
 
 ---
@@ -33,7 +33,7 @@ I'm currently working on Project Based Learning on FullStack Development using M
 
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,js,react,redux,vite,vscode,nextjs,npm,nodejs,express,mongodb,git,github,java,php,python,netlify,render,vercel,mysql,photoshop,figma,arduino,postman,postgres,redis,websockets,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,js,react,redux,vite,vscode,nextjs,npm,nodejs,express,mongodb,git,github,java,php,python,vercel,mysql,photoshop,figma,arduino,postman,postgres,redis,websockets,)](https://skillicons.dev)
  
 
 
