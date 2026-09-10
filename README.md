@@ -33,7 +33,7 @@ I'm currently working on Project Based Learning on Backend development using Nod
 
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,js,react,redux,vite,vscode,nextjs,npm,nodejs,express,mongodb,git,github,java,php,python,vercel,mysql,photoshop,figma,arduino,postman,postgres,redis,websockets,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,js,react,redux,vite,vscode,nextjs,npm,nodejs,express,mongodb,git,github,java,php,python,vercel,mysql,photoshop,figma,arduino,postman,postgres,redis,cpp)](https://skillicons.dev)
  
 
 
